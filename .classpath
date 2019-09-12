@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/eDrums/jinput/jinput.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="eDrums/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/eDrums/jinput/jinput-test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/eDrums/jinput/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/eDrums/jl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/jsapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lgpla/Documents/eclipse/java/ScrollWithFeet/bin/lib/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
